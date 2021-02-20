@@ -1,0 +1,3 @@
+[submodule "forcloning"]
+	path = forcloning
+	url = https://github.com/clostridium-nothing/forcloning.git
